@@ -31,7 +31,7 @@ public class RowVisibilityHelper : Component {
 }
 ```
 
-![WinForms Data Grid - Toggle row visibility](https://raw.githubusercontent.com/DevExpress-Examples/how-to-toggle-a-rows-visibility-e2071/17.1.8%2B/media/winforms-grid-toggle-row-visibility.png)
+![WinForms Data Grid - Toggle row visibility](media/winforms-grid-toggle-row-visibility.png)
 
 
 ## Files to Review
@@ -45,3 +45,4 @@ public class RowVisibilityHelper : Component {
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
