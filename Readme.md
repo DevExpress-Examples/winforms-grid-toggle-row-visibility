@@ -39,7 +39,7 @@ public class RowVisibilityHelper : Component {
 * [Form1.cs](./CS/WindowsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication1/Form1.vb))
 * [RowVisibilityHelper.cs](./CS/WindowsApplication1/RowVisibilityHelper.cs) (VB: [RowVisibilityHelper.vb](./VB/WindowsApplication1/RowVisibilityHelper.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-toggle-row-visibility&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-toggle-row-visibility&~~~was_helpful=no)
 
